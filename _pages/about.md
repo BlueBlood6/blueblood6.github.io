@@ -22,7 +22,7 @@ I am a Ph.D. student in the [Department of Computer Science](https://www.cs.umd.
 
 Before joining UMD, I received my M.S. degree from Shanghai Jiao Tong University, where I was advised by **Prof. Xiaolin Huang**. I received my B.E. degree in Automation from Xi'an Jiaotong University.
 
-My research focuses on **trustworthy artificial intelligence**, with current interests in **LLM agents, AI safety and security, memory and tool-use safety, privacy, and robust machine learning**. I am particularly interested in understanding vulnerabilities of modern AI systems and developing principled methods to make them safer and more reliable.
+My research focuses on **trustworthy artificial intelligence**, with particular interests in **LLM agents, AI safety and security, agent memory, privacy, and robust machine learning**. I am interested in understanding vulnerabilities of modern AI systems and developing principled methods to make them safer, more robust, and more reliable.
 
 
 # 🔥 News
@@ -37,7 +37,7 @@ My research focuses on **trustworthy artificial intelligence**, with current int
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/500x300.png' alt="InjecMEM" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/injecmem.png' alt="InjecMEM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### InjecMEM: Memory Injection Attack on LLM Agent Memory Systems
@@ -46,15 +46,15 @@ My research focuses on **trustworthy artificial intelligence**, with current int
 
 **Conference on Language Modeling (COLM), 2026**
 
-[**Code**](https://github.com/BlueBlood6/InjecMEM)
+[**Paper**](https://openreview.net/forum?id=QVX6hcJ2um) &nbsp; [**Code**](https://github.com/BlueBlood6/InjecMEM)
 
-We introduce **InjecMEM**, a targeted memory injection attack against LLM agents with persistent memory, demonstrating how a single malicious interaction can influence future agent responses through memory retrieval and reuse.
+We introduce **InjecMEM**, a memory injection attack against LLM agents with persistent memory. A single malicious interaction can poison the memory system and influence the agent's responses to future benign queries.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/500x300.png' alt="SimuDy" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/simudy.png' alt="SimuDy" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 ### Simulating Training Dynamics to Reconstruct Training Data from Deep Neural Networks
@@ -63,25 +63,25 @@ We introduce **InjecMEM**, a targeted memory injection attack against LLM agents
 
 **International Conference on Learning Representations (ICLR), 2025**
 
-[**Paper**](https://openreview.net/forum?id=ZJftXKy12x)
+[**Paper**](https://openreview.net/forum?id=ZJftXKy12x) &nbsp; [**Code**](https://github.com/BlueBlood6/SimuDy)
 
-We propose **SimuDy**, which reconstructs training data from trained neural networks by explicitly simulating the nonlinear training dynamics from model initialization to the final parameters.
+We propose **SimuDy**, which reconstructs training data from trained deep neural networks by explicitly simulating the training dynamics from model initialization to the final trained parameters.
 
 </div>
 </div>
 
 
-# 📚 Publications
+# 📚 Other Publications
 
-- **RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format.**  
-  Zhehao Huang, Yuhang Liu, Baijiong Lin, Yixin Lou, Zhengbao He, **Hanling Tian**, Tao Li, Xiaolin Huang.  
-  **International Conference on Learning Representations (ICLR), 2026. Oral.**
-
-- **Stochastic Optimal Control Sampling for Diffusion Inverse Problems.**  
+- **Stochastic Optimal Control Sampling for Diffusion Inverse Problems**  
   Jie Zhang, Youmei Qiu, **Hanling Tian**, Jingyuan Zhang, Xiang Yin, Xiaolin Huang.  
   **European Conference on Computer Vision (ECCV), 2026.**
 
-- **Primphormer: Efficient Graph Transformers with Primal Representations.**  
+- **RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format**  
+  Zhehao Huang, Yuhang Liu, Baijiong Lin, Yixin Lou, Zhengbao He, **Hanling Tian**, Tao Li, Xiaolin Huang.  
+  **International Conference on Learning Representations (ICLR), 2026. Oral.**
+
+- **Primphormer: Efficient Graph Transformers with Primal Representations**  
   Mingzhen He, Ruikai Yang, **Hanling Tian**, Youmei Qiu, Xiaolin Huang.  
   **International Conference on Machine Learning (ICML), 2025.**
 
