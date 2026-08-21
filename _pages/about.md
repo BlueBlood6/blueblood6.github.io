@@ -76,17 +76,14 @@ We propose **SimuDy**, which reconstructs training data from trained deep neural
 - **[Stochastic Optimal Control Sampling for Diffusion Inverse Problems](https://arxiv.org/abs/2606.28785)**  
   Jie Zhang, Youmei Qiu, **Hanling Tian**, Jingyuan Zhang, Xiang Yin, Xiaolin Huang.  
   **European Conference on Computer Vision (ECCV), 2026.**  
-  [**arXiv**](https://arxiv.org/abs/2606.28785)
 
 - **[RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format](https://openreview.net/forum?id=PO2iULmu5e)**  
   Zhehao Huang, Yuhang Liu, Baijiong Lin, Yixin Lou, Zhengbao He, **Hanling Tian**, Tao Li, Xiaolin Huang.  
   **International Conference on Learning Representations (ICLR), 2026. Oral.**  
-  [**OpenReview**](https://openreview.net/forum?id=PO2iULmu5e) &nbsp; [**Code**](https://github.com/K1nght/RAIN-Merging)
 
 - **[Primphormer: Efficient Graph Transformers with Primal Representations](https://openreview.net/forum?id=fMAihjfJij)**  
   Mingzhen He, Ruikai Yang, **Hanling Tian**, Youmei Qiu, Xiaolin Huang.  
   **International Conference on Machine Learning (ICML), 2025.**  
-  [**OpenReview**](https://openreview.net/forum?id=fMAihjfJij)
 
 
 # 📖 Education
