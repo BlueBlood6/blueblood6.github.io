@@ -98,7 +98,7 @@ We propose **SimuDy**, which reconstructs training data from trained deep neural
 - **2019 – 2023**, B.E. in Automation, **Xi'an Jiaotong University**
 
 
-# 💻 Research Experience
+# 💻 Experience
 
 - **Microsoft Research Asia (MSRA)** — Research Intern, DKI Group  
   Research on multimodal learning, layout understanding, and generative models.
