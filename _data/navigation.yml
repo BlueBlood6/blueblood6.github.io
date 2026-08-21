@@ -1,5 +1,8 @@
-# main links links
+# main links
 main:
+  - title: "Homepage"
+    url: "/"
+
   - title: "About Me"
     url: "/#about-me"
 
@@ -7,16 +10,13 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-selected-publications"
 
-  - title: "Honors and Awards"
+  - title: "Education"
+    url: "/#-education"
+
+  - title: "Experience"
+    url: "/#-experience"
+
+  - title: "Honors"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
