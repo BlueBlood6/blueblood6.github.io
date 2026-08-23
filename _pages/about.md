@@ -117,6 +117,6 @@ We propose **SimuDy**, which reconstructs training data from trained deep neural
 
 <div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Fem9r2iFElrRp0RJtNZxWGxiAm--a7t6YCvtZqQEark"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=zTSIX_4sfuATLpOY7hbj8tBeMnIHrcF7uxWx1-zhNDQ&cl=ffffff&w=a"></script>
 
 </div>
