@@ -107,7 +107,7 @@ We propose **SimuDy**, which reconstructs training data from trained deep neural
   Research on the safety and security of LLM agents and memory systems.
 
 
-# 🎖 Honors and Awards
+# 📝 Academic Service
 
-- **National Scholarship**
-- **Outstanding Graduate**
+- **Reviewer:** ICML 2026, COLM 2026, NeurIPS 2026, MICCAI 2026 Workshop AMPLIFAI
+- **Program Committee:** AAAI 2027
