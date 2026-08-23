@@ -111,3 +111,12 @@ We propose **SimuDy**, which reconstructs training data from trained deep neural
 
 - **Reviewer:** ICML 2026, COLM 2026, NeurIPS 2026, MICCAI 2026 Workshop AMPLIFAI
 - **Program Committee:** AAAI 2027
+
+
+# 🌎 Visitors
+
+<div style="text-align: center; margin-top: 15px; margin-bottom: 15px;">
+
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=Fem9r2iFElrRp0RJtNZxWGxiAm--a7t6YCvtZqQEark"></script>
+
+</div>
