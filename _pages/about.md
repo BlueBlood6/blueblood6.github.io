@@ -28,7 +28,7 @@ My research interests include **machine learning, LLM agents, AI safety, and eff
 # 🔥 News
 
 - **2026.08**: I started my Ph.D. study in Computer Science at the **University of Maryland, College Park**.
-- **2026.07**: 🎉 Our paper “[**InjecMEM: Memory Injection Attack on LLM Agent Memory Systems**](https://openreview.net/forum?id=VbXN1Ny912)” was accepted to **COLM 2026**!
+- **2026.07**: 🎉 Our paper “[**InjecMEM: Memory Injection Attack on LLM Agent Memory Systems**](https://arxiv.org/abs/2608.23471)” was accepted to **COLM 2026**!
 - **2026.06**: 🎉 Our paper “[**Stochastic Optimal Control Sampling for Diffusion Inverse Problems**](https://arxiv.org/abs/2606.28785)” was accepted to **ECCV 2026**!
 - **2026.01**: 🎉 Our paper “[**RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format**](https://openreview.net/forum?id=PO2iULmu5e)” was accepted to **ICLR 2026 as an Oral presentation**!
 - **2025.05**: 🎉 Our paper “[**Primphormer: Efficient Graph Transformers with Primal Representations**](https://openreview.net/forum?id=fMAihjfJij)” was accepted to **ICML 2025**!
@@ -40,13 +40,13 @@ My research interests include **machine learning, LLM agents, AI safety, and eff
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2026</div><img src='images/injecmem.png' alt="InjecMEM" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-### [InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://openreview.net/forum?id=VbXN1Ny912)
+### [InjecMEM: Memory Injection Attack on LLM Agent Memory Systems](https://arxiv.org/abs/2608.23471)
 
 **Hanling Tian**, Gengyu Zhang, Zeyang Sha, Jingying Wang, Yuhang Liu, Zhehao Huang, Kun Yang, Xiaolin Huang
 
 **Conference on Language Modeling (COLM), 2026**
 
-[**OpenReview**](https://openreview.net/forum?id=VbXN1Ny912) &nbsp; [**Code**](https://github.com/BlueBlood6/InjecMEM)
+[**OpenReview**](https://openreview.net/forum?id=VbXN1Ny912) &nbsp; [**arXiv**](https://arxiv.org/abs/2608.23471) &nbsp; [**Code**](https://github.com/BlueBlood6/InjecMEM)
 
 We introduce **InjecMEM**, a memory injection attack against LLM agents with persistent memory. A single malicious interaction can poison the memory system and influence the agent's responses to future benign queries.
 
