@@ -27,12 +27,73 @@ My research interests include **machine learning, LLM agents, AI safety, and eff
 
 # 🔥 News
 
-- **2026.08**: I started my Ph.D. study in Computer Science at the **University of Maryland, College Park**.
-- **2026.07**: 🎉 Our paper “[**InjecMEM: Memory Injection Attack on LLM Agent Memory Systems**](https://arxiv.org/abs/2608.23471)” was accepted to **COLM 2026**!
-- **2026.06**: 🎉 Our paper “[**Stochastic Optimal Control Sampling for Diffusion Inverse Problems**](https://arxiv.org/abs/2606.28785)” was accepted to **ECCV 2026**!
-- **2026.01**: 🎉 Our paper “[**RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format**](https://openreview.net/forum?id=PO2iULmu5e)” was accepted to **ICLR 2026 as an Oral presentation**!
-- **2025.05**: 🎉 Our paper “[**Primphormer: Efficient Graph Transformers with Primal Representations**](https://openreview.net/forum?id=fMAihjfJij)” was accepted to **ICML 2025**!
-- **2025.01**: 🎉 My first first-author paper, “[**Simulating Training Dynamics to Reconstruct Training Data from Deep Neural Networks**](https://openreview.net/forum?id=ZJftXKy12x),” was accepted to **ICLR 2025**!
+<div id="news-items" markdown="1">
+
+- **2026.08:** I started my Ph.D. study in Computer Science at the **University of Maryland, College Park**.
+
+- **2026.07:** 🎉 Our paper “[**InjecMEM: Memory Injection Attack on LLM Agent Memory Systems**](https://arxiv.org/abs/2503.18126)” was accepted to **COLM 2026**!
+
+- **2026.06:** 🎉 Our paper “[**Stochastic Optimal Control Sampling for Diffusion Inverse Problems**](https://arxiv.org/abs/2606.28785)” was accepted to **ECCV 2026**!
+
+- **2026.01:** 🎉 Our paper “[**RAIN-Merging: A Gradient-Free Method to Enhance Instruction Following in Large Reasoning Models with Preserved Thinking Format**](https://openreview.net/forum?id=PO2iULmu5e)” was accepted to **ICLR 2026** as an **Oral presentation**!
+
+- **2025.05:** 🎉 Our paper “[**Primphormer: Efficient Graph Transformers with Primal Representations**](https://openreview.net/forum?id=fMAihjfJij)” was accepted to **ICML 2025**!
+
+- **2025.01:** 🎉 My first first-author paper, “[**Simulating Training Dynamics to Reconstruct Training Data from Deep Neural Networks**](https://openreview.net/forum?id=ZJftXKy12x),” was accepted to **ICLR 2025**!
+
+</div>
+
+<div style="text-align: center; margin-top: 2px; margin-bottom: 8px;">
+  <button
+    id="news-toggle"
+    type="button"
+    onclick="toggleNews()"
+    style="
+      display: none;
+      border: none;
+      background: none;
+      color: #2a5db0;
+      cursor: pointer;
+      font-size: 0.95em;
+      padding: 3px 12px;
+    ">
+    More ▾
+  </button>
+</div>
+
+<style>
+  #news-items:not(.expanded) ul > li:nth-child(n+6) {
+    display: none;
+  }
+
+  #news-toggle:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const newsItems = document.querySelectorAll("#news-items ul > li");
+  const button = document.getElementById("news-toggle");
+
+  if (newsItems.length > 5) {
+    button.style.display = "inline-block";
+  }
+});
+
+function toggleNews() {
+  const news = document.getElementById("news-items");
+  const button = document.getElementById("news-toggle");
+
+  news.classList.toggle("expanded");
+
+  if (news.classList.contains("expanded")) {
+    button.innerHTML = "Less ▴";
+  } else {
+    button.innerHTML = "More ▾";
+  }
+}
+</script>
 
 
 # 📝 Selected Publications
