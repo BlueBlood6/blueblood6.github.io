@@ -107,7 +107,7 @@ function toggleNews() {
 
 **Conference on Language Modeling (COLM), 2026**
 
-[**OpenReview**](https://openreview.net/forum?id=VbXN1Ny912) &nbsp; [**arXiv**](https://arxiv.org/abs/2608.23471) &nbsp; [**Code**](https://github.com/BlueBlood6/InjecMEM)
+[**OpenReview**](https://openreview.net/forum?id=VbXN1Ny912) &nbsp; [**arXiv**](https://arxiv.org/abs/2608.23471) &nbsp; [**Code**](https://github.com/BlueBlood6/InjecMEM)&nbsp; [**Poster**](https://colm.cc/media/PosterPDFs/COLM%202026/2098.png)
 
 We introduce **InjecMEM**, a memory injection attack against LLM agents with persistent memory. A single malicious interaction can poison the memory system and influence the agent's responses to future benign queries.
 
