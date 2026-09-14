@@ -176,8 +176,8 @@ We propose **SimuDy**, which reconstructs training data from trained deep neural
 
 # 🌎 Visitors
 
-<div style="width: 520px; max-width: 100%; margin: 15px auto 20px auto; text-align: center;">
+<div style="width: 700px; max-width: 100%; margin: 15px auto 20px auto; text-align: center;">
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=zTSIX_4sfuATLpOY7hbj8tBeMnIHrcF7uxWx1-zhNDQ&cl=ffffff&w=a"></script>
+<script src="https://statable.com/js/85N22284F9/t/mw.js" data-id="3339283" data-period="90d"></script>
 
 </div>
